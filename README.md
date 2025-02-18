@@ -3,7 +3,7 @@
 ## 📌 Overview
 SnapSeek is a Windows application that lets you **search for images using a text prompt**. It leverages the **OpenAI CLIP model** to index images and allows users to find specific images in large folders without manually browsing through thousands of files.
 
-[Demo Video](SnapSeek-Demo.mp4)
+[Demo Video](https://github.com/user-attachments/assets/7fa662e3-f9ef-4d9c-af9b-c087c9e71b61)
 
 ## ✨ Features
 - **AI-powered image search** using text prompts.
